@@ -22,4 +22,4 @@ This project is a real-world inspired Data Analytics Dashboard built using HTML,
 This dashboard simulates real-world business intelligence systems used in companies to analyze performance and make data-driven decisions.
 
 ## 👩‍💻 Developer
-Saniya
+Mayank
